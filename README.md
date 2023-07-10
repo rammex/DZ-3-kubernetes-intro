@@ -15,7 +15,7 @@ kubectl get pod
 
 (STATUS Running)
 
-kubectl port-forward kube-doom-deployment-6b9c7ff4d6-m2pj8 5900:5900
+kubectl port-forward kube-doom-deployment-xxxxxxxxxx-xxxxx 5900:5900
 
 
 
