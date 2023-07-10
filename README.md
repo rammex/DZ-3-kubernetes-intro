@@ -1,4 +1,4 @@
-# Домашнее задание к уроку 3 - Docker
+# Домашнее задание к уроку 3 - Kubernetes
 
 
 kubectl create ns kubedoom
